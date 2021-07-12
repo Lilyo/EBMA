@@ -5,5 +5,4 @@ Assume that the adjacent frames are similar and change are due to object or came
 ## Demo
 ![image](https://github.com/Lilyo/EBMA/tree/master/fig/ebma.gif)
 
--![Sample Gif](https://github.com/Lilyo/EBMA/tree/master/fig/ebma.gif)
-+<img src="/art/sample.gif?raw=true" width="200px">
+<img src="https://github.com/Lilyo/EBMA/tree/master/fig/ebma.gif"/>
