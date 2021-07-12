@@ -4,5 +4,4 @@ Assume that the adjacent frames are similar and change are due to object or came
 
 ## Demo
 ![image](https://github.com/Lilyo/EBMA/tree/master/fig/ebma.gif)
-
-<img src="https://github.com/Lilyo/EBMA/tree/master/fig/ebma.gif"/>
+# <img alt="YAP" src="https://github.com/Lilyo/EBMA/tree/master/fig/ebma.gif">
